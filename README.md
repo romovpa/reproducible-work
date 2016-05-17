@@ -2,7 +2,14 @@ Reproducible.work
 =================
 
 [Collective blog Reproducible.work](https://reproducible-work.ghost.io/)
-  - [The Problem of two swords](http://nbviewer.jupyter.org/github/necludov/two-swords/blob/master/post.ipynb?flush_cache=true) by _Kirill Neklyudov_
+
+Publications (ready and in-progress):
+  - [The Problem of two swords](http://nbviewer.jupyter.org/github/necludov/two-swords/blob/master/post.ipynb?flush_cache=true) _by Kirill Neklyudov_
+  - Speaking with intention: make neural net speak from its heart _by Alexander Panin_
+  - Computing fractal Minkowski dimension of a flat image _by Pavel Nesterov_
+  - Is there life in the high dimensional space? _by Victor Oganesyan_
+  - Dota Science: just another way to enjoy Dota _by Daniil Yashkov_
+  - Another way to cook artistic style with lasagne _by Kirill Neklyudov_
 
 ## Концепция
 
