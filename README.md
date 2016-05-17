@@ -1,6 +1,11 @@
 Reproducible.work
 =================
 
+[Collective blog Reproducible.work](https://reproducible-work.ghost.io/)
+  - [The Problem of two swords](http://nbviewer.jupyter.org/github/necludov/two-swords/blob/master/post.ipynb?flush_cache=true) by _Kirill Neklyudov_
+
+## Концепция
+
 Всем привет! У нас есть идея сделать коллективный научный блог. Сейчас есть очень много отдельных блогов от data scientist’ов где они пишут про разные интересные штуки и хотелось бы всё это объединить. Помимо банального объединения блогов мы бы хотели привнести своё видение в эту область:
 - каждый пост (заметка) должны быть в формате .ipynb или .rmd,
 - пост должен содержать математические формулы и/или код (посты «за жисть» это не наш формат),
