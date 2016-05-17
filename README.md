@@ -5,7 +5,8 @@ Reproducible.work
 
 Publications (ready and in-progress):
   - [The Problem of two swords](http://nbviewer.jupyter.org/github/necludov/two-swords/blob/master/post.ipynb?flush_cache=true) _by Kirill Neklyudov_
-  - Speaking with intention: make neural net speak from its heart _by Alexander Panin_
+  - A hacker's guide to deep reinforcement learning in an hour of your time _by Alexander Panin_
+  - Speaking with intention: How can one train neural network to talk human, talk to human and talk like human, and why these three are not the same _by Alexander Panin_
   - Computing fractal Minkowski dimension of a flat image _by Pavel Nesterov_
   - Is there life in the high dimensional space? _by Victor Oganesyan_
   - Dota Science: just another way to enjoy Dota _by Daniil Yashkov_
