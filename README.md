@@ -11,7 +11,7 @@ Publications (ready and in-progress):
   - Dota Science: just another way to enjoy Dota _by Daniil Yashkov_
   - Another way to cook artistic style with lasagne _by Kirill Neklyudov_
 
-## Концепция
+## Концепция (в разработке)
 
 Всем привет! У нас есть идея сделать коллективный научный блог. Сейчас есть очень много отдельных блогов от data scientist’ов где они пишут про разные интересные штуки и хотелось бы всё это объединить. Помимо банального объединения блогов мы бы хотели привнести своё видение в эту область:
 - каждый пост (заметка) должны быть в формате .ipynb или .rmd,
